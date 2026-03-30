@@ -2,14 +2,24 @@
 
 🚀 **Cursando Eng. de Software |**  
 🇧🇷 Brazil
+###
 
----
+<h2 align="left">Sobre Mim</h2>
 
-## 📊 GitHub Stats
+###
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos-BJJ&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-BJJ&layout=compact&theme=tokyonight" />
-</p>
+<p align="left">📚 Atualmente estou aprendendo C <br>🎯 Meta: Atuar na área de Eng. de software o mais rápido possível <br>🎲 Curiosidade: Completei o curso de lógica de programação do Gustavo Guanabara</p>
+
+###
+
+<h2 align="left">Por enquanto programo somente em</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"  />
+  <img width="12" />
+</div>
+
 
 
