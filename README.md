@@ -1,7 +1,6 @@
 # Olá 👋, Eu sou Carlos Eduardo
 
-🚀 **Cursando Eng. de Software |**  
-🇧🇷 Brazil
+🚀 **Cursando Eng. de Software | 🇧🇷 Brazil**  
 ###
 
 <h2 align="left">Sobre Mim</h2>
